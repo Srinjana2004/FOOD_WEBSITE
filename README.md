@@ -6,7 +6,7 @@ A full-stack food delivery web application where users can browse a menu by cate
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 > A vibrant hero section with an orange-themed banner, navigation bar with cart & profile icons, and a **"View Menu"** CTA button.
 
@@ -14,7 +14,7 @@ A full-stack food delivery web application where users can browse a menu by cate
 
 ## 🍽️ Menu Page
 
-![Menu Page](screenshots/menu.png)
+![Menu Page](menu.png)
 
 > Browse food by categories — **Salad, Rolls, Deserts, Sandwich, Cake, Pure Veg, Pasta, Noodles** — with a "Top dishes near you" section below.
 
@@ -22,7 +22,7 @@ A full-stack food delivery web application where users can browse a menu by cate
 
 ## 🛒 Cart Page
 
-![Cart Page](screenshots/cart.png)
+![Cart Page](cart.png)
 
 > View all added items with their price, quantity, and total. Apply a **promo code** and see the breakdown of Subtotal, Delivery Fee, and Total before checkout.
 
@@ -130,6 +130,6 @@ App runs at: `http://localhost:5173`
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Srinjana Sahana](https://github.com/Srinjana2004)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername/tomato)
