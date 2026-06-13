@@ -6,7 +6,7 @@ A full-stack food delivery web application where users can browse a menu by cate
 
 ## 🏠 Home Page
 
-![Home Page](Screenshot_2026-06-13_230214.png)
+![Home Page](home.png)
 
 > A vibrant hero section with an orange-themed banner, navigation bar with cart & profile icons, and a **"View Menu"** CTA button.
 
@@ -14,7 +14,7 @@ A full-stack food delivery web application where users can browse a menu by cate
 
 ## 🍽️ Menu Page
 
-![Menu Page](Screenshot_2026-06-13_230222.png)
+![Menu Page](menu.png)
 
 > Browse food by categories — **Salad, Rolls, Deserts, Sandwich, Cake, Pure Veg, Pasta, Noodles** — with a "Top dishes near you" section below.
 
@@ -22,7 +22,7 @@ A full-stack food delivery web application where users can browse a menu by cate
 
 ## 🛒 Cart Page
 
-![Cart Page](Screenshot_2026-06-13_230259.png)
+![Cart Page](cart.png)
 
 > View all added items with their price, quantity, and total. Apply a **promo code** and see the breakdown of Subtotal, Delivery Fee, and Total before checkout.
 
