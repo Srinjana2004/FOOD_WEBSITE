@@ -1,0 +1,46 @@
+.add-food {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.add-food form div {
+    margin-bottom: 15px;
+}
+
+.add-food label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.add-food input,
+.add-food textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.add-food textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+.add-food button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.add-food button:hover {
+    background-color: #45a049;
+}
