@@ -3,7 +3,7 @@ import userModel from "../models/userModel.js";
 import Stripe from "stripe";
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 const placeOrder=async(req,res)=>{
-    const frontend_url="https://food-website-frontend-6by2.onrender.com/"
+    const frontend_url="https://food-website-frontend-6by2.onrender.com"
 
  try {
     const newOrder = new orderModel({
